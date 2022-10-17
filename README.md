@@ -1,3 +1,3 @@
 # Teste-Front-End-Senai
 
-Teste de Front-End do site SENAI Mogi das Cruzes
+Teste de Front-End do site Games-Mania programado por mim mesmo
